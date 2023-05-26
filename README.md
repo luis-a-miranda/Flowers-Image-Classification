@@ -1,3 +1,3 @@
 # Flowers Image Classification
 
---under construction--
+--work in progress--
