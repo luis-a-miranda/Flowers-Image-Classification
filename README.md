@@ -2,7 +2,7 @@
 
 --work in progress--
 
-The dataset used is the [Oxford_flower102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+The dataset used is the [Oxford_flower102](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/). Preview of the dataset: [URL](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/categories.html)
 
 Early Results 
 <p>
