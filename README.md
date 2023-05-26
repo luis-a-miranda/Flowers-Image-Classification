@@ -3,4 +3,6 @@
 --work in progress--
 
 Early Results 
-<td><img src="early_results.png" width=600></td>
+<p align="center">
+  <img src="https://github.com/luis-a-miranda/Flowers-Image-Classification-using-Tensorflow/blob/main/early_results.png">
+</p>
